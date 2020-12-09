@@ -15,7 +15,7 @@ For Backing up your Website Databases please see our Backup MySQL script.
 
 3. Download the installer script.
 
-<code>wget https://raw.githubusercontent.com/clusterednetworks/backup-www/master/cloudflare-ufw.sh</code>
+<code>wget https://raw.githubusercontent.com/clusterednetworks/backup-www/master/backup-www.sh</code>
 
 4. Edit the configuration options at the beginning of the script to match your environment prior to executing.
 
