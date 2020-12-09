@@ -37,3 +37,6 @@ BACKUP_PATH='/home/backup/server05/www'
 <code>./backup-www.sh</code>
 
 8. Setup a cronjob to run the script daily/weekly if you choose.
+<pre>
+1 1   * * * /etc/backup-www.sh >/dev/null 2>&1
+</pre>
